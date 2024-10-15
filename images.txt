@@ -1,2 +1,1 @@
-ariang --platform linux/arm
-webui-aria2
+p3terx/ariang
