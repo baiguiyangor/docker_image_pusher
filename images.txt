@@ -1,1 +1,2 @@
-ariang --platform linux/arm64/v8
+ariang --platform linux/arm
+webui-aria2
